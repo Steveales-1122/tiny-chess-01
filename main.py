@@ -8,7 +8,7 @@ V=(0,100,320,330,500,900,0)
 S=("PPPPUZZ<UKFPPPPdUUZiZZdn~~~~PPPP","!(22(<PU2UZ_2P_d2U_d2PZ_(<PP!(22","<FFFFUPPFZZZFPZZFUUZFPUZFPPP<FFF","PPPUKPPPKPPPKPPPKPPPKPPPUZZZPPPP","<FFKFPUPFUUUPPUUKPUUFPUUFPPP<FFK","dnZPddPPF<<<<22(2((!2((!2((!2((!")
 ND=(-33,-31,-18,-14,14,18,31,33);KD=(-17,-16,-15,-1,1,15,16,17);BD=(-17,-15,15,17);RD=(-16,-1,1,16)
 M=100000
-b=bytearray(128);G=[0,0,-1,0,0];N=[0];L=99999;Z=[0,0];K=[0]*99
+b=bytearray(128);G=[0,0,-1,0,0];N=[0];L=150000;Z=[0,0];K=[0]*99
 class TO(Exception):pass
 def pa(f):
  p=f.split();r=7;fl=0
